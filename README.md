@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexanderFilho
+- I’m interested in neural network
+- I’m currently learning computer engineering
+- I’m looking to collaborate on assistive tecnology
+- How to reach me: alexander.cardoso99@gmail.com
